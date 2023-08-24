@@ -50,7 +50,7 @@ function BlogPostList () {
         <Typography variant="body2">
         {blogs.text}
           <br />
-          {'"a benevolent smile"'}
+          
         </Typography>
       </CardContent>
       <CardActions>
